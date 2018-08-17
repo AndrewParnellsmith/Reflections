@@ -3,6 +3,9 @@ What happens when you initialize a repository? Why do you need to do it?
 adds a git folder. it creates the space to save files I believe.
 
 How is the staging area different from the working directory and the repository?
+
+it's an in between location (temporary) not a file location.
+
 What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
