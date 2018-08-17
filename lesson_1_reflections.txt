@@ -1,0 +1,61 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The plus and minus made it very easy to spot code differences.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+  it will not take as much time to find breaks in code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    you can't forget to save changes.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  I have no idea.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    this has not been covered yet.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+  you can go back to old versions of code easily.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I am just wanting to learn how to use git.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+You can go back and see any changes that have been made quickly.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+if you forget to commit you may have trouble finding an issue.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+coding requires multiple docs.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log shows full history of the doc.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+It makes it very easy to get back to where the code was working.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+committing!
